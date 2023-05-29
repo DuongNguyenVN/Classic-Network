@@ -1,0 +1,16 @@
+body {
+    font-family: Consolas;
+}
+
+div.c {
+    text-align: center;
+}
+
+div.menu {
+    font-family: Arial;
+}
+
+a {
+    font-family: Consolas;
+    color: #0000ff;
+}
